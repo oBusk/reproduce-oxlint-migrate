@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "oxlint": "oxlint ."
   },
   "keywords": [],
   "author": "",
@@ -14,6 +15,7 @@
     "@eslint/js": "^10.0.1",
     "eslint": "^10.2.0",
     "eslint-config-prettier": "^10.1.8",
-    "globals": "^17.4.0"
+    "globals": "^17.4.0",
+    "oxlint": "^1.58.0"
   }
 }
